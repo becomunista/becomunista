@@ -2,7 +2,8 @@
 - 
 - 👀 estou fazendo curto do alura
 - 
-- 🌱 estou me desenvolvendo na linguaguem javascript
+- 🌱 estou me desenvolvendo na linguaguem javaScript
+- 
 - 💞️ vc pode entrar em contato comigo.
 - 📫 elias.brenda@escola.pr.gov.br.
 
